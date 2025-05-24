@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devsharma2229
 - 👀 I’m interested in working with data
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data sience projects including EDA and further data manipulation techniques
+- 💞️ I’m looking to collaborate on data science projects including EDA and further data manipulation techniques
 - 📫 How to reach me @devsharma74045@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
